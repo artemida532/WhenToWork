@@ -2,7 +2,6 @@ const CACHE_NAME = 'work-calendar-v1';
 const ASSETS = [
   '/',
   '/index.html',
-  '/styles.css',
   '/icon-192x192.png',
   '/icon-512x512.png'
 ];
